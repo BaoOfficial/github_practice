@@ -1,0 +1,52 @@
+Data Cleaning
+- Remove Duplicates
+- Get day name colunm
+- Remove minus in age
+
+
+
+Possible Questions:
+
+1.  How many bookings were made within a specific time period?
+	(Number of bookings)
+2.  What is the distribution of bookings by gender?
+	(Distribution of bookings by gender)
+3.  What is the average age of customers making bookings?
+	(Average age of customers)
+4.  What are the most common origin countries of the customers?
+	(Distribution of bookings by origin country)
+5.  How many people are typically included in each booking?
+	(Average number of people per booking)
+6.  What is the average duration of stay (in days) for bookings?
+	(Average duration of stay)
+7.  Which hotel has the highest number of bookings?
+	(Number of bookings per hotel)
+8.  What is the average booking price (in SGD)?
+	(Average booking price)
+9.  How many bookings were made using each payment mode?
+	(Distribution of bookings by payment mode)
+10.What is the distribution of bookings by hotel rating?
+	(Distribution of bookings by hotel rating)
+
+
+
+Important Key Performance Indicators (KPIs):
+
+1.  Number of bookings
+2.  Average age of customers
+3.  Distribution of bookings by gender
+4.  Distribution of bookings by origin country
+5.  Average number of people per booking
+6.  Average duration of stay
+7.  Number of bookings per hotel
+8.  Average booking price
+9.  Distribution of bookings by payment mode
+10.Distribution of bookings by hotel rating
+11.Discount percentage
+12.GST (Goods and Services Tax) collected
+13.Profit margin per booking
+
+
+
+Get me the important payment method and booking fees analysis KPI and questions from this hotel dataset colunm
+Booking ID	Date of Booking	Time	Customer ID	Gender	Age	Origin Country	State	Location	Destination Country	Destination City	No. Of People	Check-in date	No of Days	Check-Out Date	Rooms	Hotel Name	Hotel Rating	Payment Mode	Bank Name	Booking Price[SGD]	Discount	GST	Profit Margin
